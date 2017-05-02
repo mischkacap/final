@@ -22,3 +22,12 @@ font-size: 12px;}
 .statemedia{position:fixed;}
 .maptext {border: 2em
 }
+
+a:link {
+    color: black; 
+    text-decoration: none;
+    }
+
+    a:visited { color: black; 
+    text-decoration: none;
+    }
